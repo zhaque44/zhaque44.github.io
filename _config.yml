@@ -39,12 +39,12 @@ plugins:
 safe: False
 lsi: False
 username: zhaque44 #github username
-repo: zhaqueblog #github repository
-branch: github-pages #branch
+repo: zhaque44.github.io #github repository
+branch: master #branch
 relative_source: ../hanuman/ #source directory
 destination: ../hanuman-pages/ #destination directory
-production_url:  https://zhaqueblog.github.io/
-source_url:  https://github.com/zhaque44/zhaqueblog #source repository url
+production_url:  https://zhaque44.github.io/
+source_url:  https://github.com/zhaque44/zhaque44.github.io #source repository url
 
 exclude:
   - README.md
