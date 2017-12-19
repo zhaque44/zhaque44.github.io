@@ -9,10 +9,10 @@ author: Zubair Haque
 <p>In my current project we are using Cucumber a popular BDD test framework. We basically have a wide range of tasks setup in our suite to accommodate various test needs for the rollout of features that need to be delivered within a two week sprint. The rake test tasks written in our Cucumber suite are very useful, we chain multiple “test tasks” together and leverage them, based on the regression testing we want to accomplish for the application under test.<p>
 Here is a scenario we encountered recently:</i></b>
 <p>I was testing on a feature branch that was implementing a major back-end change, I didn’t feel the need to run our end to end test suite due to the changes were in the back end. So I decided to create a smoke test task or a back-end test task that just runs the back-end tests. I thought this could serve as a repeatable task for developers run before they merge to our master branch, use it as somewhat of a pre-push task to make sure things are mostly intact.
-</p><br><i>Creating a Rake task:</b></i><br>
+</p><br><b><i>Creating a Rake task:</b></i><br>
 <br>
 Go to your Rakefile in your test directory and create your task there:
-<code>
+
 require ‘rubygems’
 require ‘cucumber’
 require ‘cucumber/rake/task’
@@ -21,7 +21,6 @@ Cucumber::Rake::Task.new(:backEndTests) do |t|
 t.cucumber_opts = “features –color –format pretty –tags ~@backendtests -f json_pretty -o cucumber.json -f html -o cucumber.html”
 end
 
-</code>
 <br><p>
 The .new defines the task and allows us to name it “backEndTests”
 We start our block of code with “do”
