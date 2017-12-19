@@ -8,7 +8,6 @@ author: Zubair Haque
 
 
 
-<h1 id="heading1">A custom fit to “testing your application”</h1>
 <br>
 <p>In my current project we are using Cucumber a popular BDD test framework. We basically have a wide range of tasks setup in our suite to accommodate various test needs for the rollout of features that need to be delivered within a two week sprint. The rake test tasks written in our Cucumber suite are very useful, we chain multiple “test tasks” together and leverage them, based on the regression testing we want to accomplish for the application under test.<p>
 <br>
