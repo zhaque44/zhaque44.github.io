@@ -10,6 +10,7 @@ Do you want more freelance work, something interesting to show potential recruit
 Let’s get straight to it. 
 1.	Create an account on https://github.com/
  <amp-img src="{{ site.baseurl }}assets/images/free-blog/1.png" width="100%" heigth="100%" layout="responsive" alt="" class="mb3"></amp-img>
+<amp-img src="{{ site.baseurl }}assets/images/free-blog/1.png" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 
  
 Github is a place to share code with other developers. It also allows you to host static pages for your projects or portfolio. We’ll use this to our advantage. Also make sure you use a valid email address as they will be asking for email verification before you can do anything else.
