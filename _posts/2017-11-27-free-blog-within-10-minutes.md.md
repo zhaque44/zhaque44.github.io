@@ -9,7 +9,7 @@ author: Zubair Haque
 Do you want more freelance work, something interesting to show potential recruiters, or want to share your experience with what you do best? Then your own full-fledged blog is what you need! But who wants to spend money on a blog theme, hosting, and a domain? Nobody! Thankfully you’ve came to the right where I’ll be teaching you how to setup your very own free blog within 10 minutes. This includes hosting, a theme, and a domain; and that all for free without any knowledge on how to code!
 Let’s get straight to it. 
 1.	Create an account on https://github.com/
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/1.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/1.png" width="100%" heigth="100%" layout="responsive" alt="" class="mb3"></amp-img>
 
  
 Github is a place to share code with other developers. It also allows you to host static pages for your projects or portfolio. We’ll use this to our advantage. Also make sure you use a valid email address as they will be asking for email verification before you can do anything else.
