@@ -14,15 +14,15 @@ Let’s get straight to it.
  
 Github is a place to share code with other developers. It also allows you to host static pages for your projects or portfolio. We’ll use this to our advantage. Also make sure you use a valid email address as they will be asking for email verification before you can do anything else.
  
-  <amp-img src="{{ site.baseurl }}assets/images/free-blog/2.png" layout="responsive" alt="" class="mb3"></amp-img>
+  <amp-img src="{{ site.baseurl }}assets/images/free-blog/2.png" width="1252" height="652" layout="responsive" alt="" class="mb3"></amp-img>
 
 2.	 Go to http://jekyllthemes.org and pick a theme you like
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/3.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/3.png"width="755" height="346"  layout="responsive" alt="" class="mb3"></amp-img>
 
  
 This will be the place you can choose any theme you’d like. Which is of course amazing because you can choose from a few quadruple thousand themes that are all open source and free.  
 3.	I like JBlog but you can choose anything you like
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/4.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/4.png" width="567" height="346"  layout="responsive" alt="" class="mb3"></amp-img>
 
 
  
@@ -31,36 +31,36 @@ This will be the place you can choose any theme you’d like. Which is of course
 
 5.	On the home page click on fork
 
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/5.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/5.png" width="354" height="209"  layout="responsive" alt="" class="mb3"></amp-img>
 
 
 Forking will copy the entire repository (code and theme of the Jekyll blog) and put it on your Github
 6.	Click on branch and add a branch called gh-pages
-  <amp-img src="{{ site.baseurl }}assets/images/free-blog/6.png" layout="responsive" alt="" class="mb3"></amp-img>
+  <amp-img src="{{ site.baseurl }}assets/images/free-blog/6.png" width="496" height="251"  layout="responsive" alt="" class="mb3"></amp-img>
 
 7.	Now click on settings
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/7.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/7.png"  width="622" height="240" layout="responsive" alt="" class="mb3"></amp-img>
 
  
 8.	Change the name of the repository if you’d like and then click on branches  
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/8.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/8.png" width="399" height="326"  layout="responsive" alt="" class="mb3"></amp-img>
 
 9.	Change the default branch and click on update
-  <amp-img src="{{ site.baseurl }}assets/images/free-blog/9.png" layout="responsive" alt="" class="mb3"></amp-img>
+  <amp-img src="{{ site.baseurl }}assets/images/free-blog/9.png" width="422" height="168"  layout="responsive" alt="" class="mb3"></amp-img>
 
 
 10.	It asks you to confirm if you really want to do it. Click on “I understand, update the default branch”; don’t worry it won’t explode. 
  
 11.	Now go to options
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/10.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/10.png" width="245" height="246"  layout="responsive" alt="" class="mb3"></amp-img>
 
  
 12.	Scroll down to Github pages and click on the new link that appeared there which says: “Your site is published at [URL]”
-  <amp-img src="{{ site.baseurl }}assets/images/free-blog/11.png" layout="responsive" alt="" class="mb3"></amp-img>
+  <amp-img src="{{ site.baseurl }}assets/images/free-blog/11.png" width="767" height="159"  layout="responsive" alt="" class="mb3"></amp-img>
 
 13.	Congratulations! That’s your new blog right there: 
  
- <amp-img src="{{ site.baseurl }}assets/images/free-blog/12.png" layout="responsive" alt="" class="mb3"></amp-img>
+ <amp-img src="{{ site.baseurl }}assets/images/free-blog/12.png" width="886" height="511"  layout="responsive" alt="" class="mb3"></amp-img>
 
 
 Thanks for reading. In my next post I’ll tell you how to configure your blog. 
