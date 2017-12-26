@@ -15,7 +15,7 @@ Creating a Rake task:
 
 Go to your Rakefile in your test directory and create your task there:
 
-```
+```ruby
 require ‘rubygems’
 require ‘cucumber’
 require ‘cucumber/rake/task’
@@ -39,7 +39,7 @@ Tagging scenarios:
 Feature: F111 — What my feature is doing
 
 #Best Practice: write notes for your tests, so other engineers can understand what you are testing
-```
+```ruby
 @backEndTests
 Scenario: Explanation of the scenario I am testing
 Given that I am logged in as “parameter” through the POST API request
@@ -48,7 +48,7 @@ Then the expected results display
 ```
 Once you get to the feature file that has the back-end you are looking for add the test @tag above the scenarios you want to run in your suite.
 You should be able to run your task now from the command line:
-```
+```ruby
 $rake backEndTests
 ```
 Once the back-end suite passes, we are ready to carry on with our regression efforts by making the proper REST calls to simulate or mimic the user actions in the back-end. After we have received successful response codes for the calls we were trying to make, we login from the UI and do validation on the front-end. As you can see our regression efforts are eagle-eye focused on the various areas that impact the changes made. Running a very targeted approach for our regressions suites saves us a lot of time and notifies us that the changes made aren’t breaking working software. In a scaled agile environment efficiency is key for Continuous Delivery.
