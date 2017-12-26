@@ -15,6 +15,7 @@ Creating a Rake task:
 
 Go to your Rakefile in your test directory and create your task there:
 
+```
 require ‘rubygems’
 require ‘cucumber’
 require ‘cucumber/rake/task’
@@ -22,6 +23,7 @@ require ‘cucumber/rake/task’
 Cucumber::Rake::Task.new(:backEndTests) do |t|
 t.cucumber_opts = “features –color –format pretty –tags ~@backendtests -f json_pretty -o cucumber.json -f html -o cucumber.html”
 end
+```
 
 The .new defines the task and allows us to name it “backEndTests”
 We start our block of code with “do”
