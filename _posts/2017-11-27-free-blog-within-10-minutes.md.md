@@ -2,7 +2,7 @@
 layout: post
 title: HOW TO HOST YOUR OWN AD-FREE BLOG WITHIN 10 MINUTES USING GITHUB PAGES AND JEKYLL
 date: 2017-12-23 04:24:43
-tags: blog free hosting domnain 
+tags: blog free hosting domain 
 author: Zubair Haque
 ---
 
