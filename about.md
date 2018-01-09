@@ -15,14 +15,14 @@ Phone: (646) 515-1473
 Detail oriented individual with extensive experience as a Development Engineer in Test/Scrum Master with core focus on Manual and Automated testing of web-based, desktop and client/server applications on UNIX and Windows environment. I specialize in working with UX/UI teams, stakeholders and Product Owners performing scope outlining, requirements analysis, guidance in translating complex initiatives into testable objectives, developing requirement traceability matrices, documenting best practices, authoring test strategies, developing automated test scenarios, test data, web services testing through REST client and thorough bug documentation.
 
 <h1 id="heading2">TECHNICAL SKILLS</h1>
-<b>Software Testing Tools:</b> Grunt, Vagrant, Docker, HP Quick Test Professional (QTP), PhantomJS, LoadRunner, Gradle, Firebug, Selenium, Sublime, Postman, Chef, Eclipse, WebDriver, ScrumWise, TestTrack, Rally, Jenkins and Quality Center.<br /><br />
-<b>Frameworks:</b> RSpec, Behave, JUnit, Cucumber, AngularJS and Marionette.<br /><br />
-<b>Cloud Computing:</b> AWS, S3, AWS-CodeCommit, AWS-CLI, Papertrail, AWS Management Console and Amazon Aurora. <br /><br />
-<b>508 compliant tools:</b> JAWS and iOS VoiceOver.<br /><br />
-<b>Languages:</b> JSON, CSS, Python, Visual Basic, SQL, HTML, Ruby, Java and XML.<br /><br />
+<b>Software Testing Tools:</b> Grunt, Vagrant, Docker, HP Quick Test Professional (QTP), PhantomJS, LoadRunner, Gradle, Firebug, Selenium, Sublime, Postman, Chef, Eclipse, WebDriver, ScrumWise, TestTrack, Rally, Jenkins and Quality Center.<br />
+<b>Frameworks:</b> RSpec, Behave, JUnit, Cucumber, AngularJS and Marionette.<br />
+<b>Cloud Computing:</b> AWS, S3, AWS-CodeCommit, AWS-CLI, Papertrail, AWS Management Console and Amazon Aurora. <br />
+<b>508 compliant tools:</b> JAWS and iOS VoiceOver.<br />
+<b>Languages:</b> JSON, CSS, Python, Visual Basic, SQL, HTML, Ruby, Java and XML.<br />
 <b>Version Control tools:</b> Git, TortoiseSVN, BitBucket and SourceTree.
-<b>Database:</b> VistA, MS SQL Server, MySQL, MongoDB and Oracle.<br /><br />
-<b>Browsers:</b> Safari, Chrome, Edge, IE, and Firefox.<br /><br />
+<b>Database:</b> VistA, MS SQL Server, MySQL, MongoDB and Oracle.<br />
+<b>Browsers:</b> Safari, Chrome, Edge, IE, and Firefox.<br />
 <b>Operating Systems:</b> OS X, DOS, Linux and Windows.
 
 <h1 id="header2">CERTIFICATIONS:</h1>
