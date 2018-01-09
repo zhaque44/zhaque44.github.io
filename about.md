@@ -51,7 +51,7 @@ Responsibilities:<br /><br />
 • Performed rigorous resource testing by modifying the URL to validate that the expected data was being returned.
 • Updating bash deploy scripts to change URLS to enable query string cache busting.<br />
 • Administering and performing server maintenance in the AWS Management Console.<br />
-• Possessing the ability to switch focus to immediate tasks, as well as adapting to scope and direction<br /> change.<br />
+• Possessing the ability to switch focus to immediate tasks, as well as adapting to scope and direction change.<br />
 <b>Environment:</b> Docker, Papertrail, Selenium Webdriver, Kitematic, Git, Bash, Google Authenticator, Homebrew, Postman, AWS-CodeCommit, Ubuntu, JSON, Cucumber, PhantomJS, Python, NGINX, HTML5, Sublime, AWS, CSS3, Scrumwise, AngularJS, MySQL, jQuery, AWS-CLI, Grunt, S3 and Amazon Aurora.
 
 
