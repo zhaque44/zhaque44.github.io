@@ -15,15 +15,15 @@ Phone: (646) 515-1473
 Detail oriented individual with extensive experience as a Development Engineer in Test/Scrum Master with core focus on Manual and Automated testing of web-based, desktop and client/server applications on UNIX and Windows environment. I specialize in working with UX/UI teams, stakeholders and Product Owners performing scope outlining, requirements analysis, guidance in translating complex initiatives into testable objectives, developing requirement traceability matrices, documenting best practices, authoring test strategies, developing automated test scenarios, test data, web services testing through REST client and thorough bug documentation.
 
 <h1 id="heading2">TECHNICAL SKILLS</h1>
-Software Testing Tools: Grunt, Vagrant, Docker, HP Quick Test Professional (QTP), PhantomJS, LoadRunner, Gradle, Firebug, Selenium, Sublime, Postman, Chef, Eclipse, WebDriver, ScrumWise, TestTrack, Rally, Jenkins and Quality Center.
-Frameworks: RSpec, Behave, JUnit, Cucumber, AngularJS and Marionette.
-Cloud Computing: AWS, S3, AWS-CodeCommit, AWS-CLI, Papertrail, AWS Management Console and Amazon Aurora.
-508 compliant tools: JAWS and iOS VoiceOver.
-Languages: JSON, CSS, Python, Visual Basic, SQL, HTML, Ruby, Java and XML.
-Version Control tools: Git, TortoiseSVN, BitBucket and SourceTree.
-Database: VistA, MS SQL Server, MySQL, MongoDB and Oracle.
-Browsers: Safari, Chrome, Edge, IE, and Firefox.
-Operating Systems: OS X, DOS, Linux and Windows.
+<b>Software Testing Tools:</b> Grunt, Vagrant, Docker, HP Quick Test Professional (QTP), PhantomJS, LoadRunner, Gradle, Firebug, Selenium, Sublime, Postman, Chef, Eclipse, WebDriver, ScrumWise, TestTrack, Rally, Jenkins and Quality Center.<br /><br />
+<b>Frameworks:</b> RSpec, Behave, JUnit, Cucumber, AngularJS and Marionette.
+<b>Cloud Computing: AWS, S3, AWS-CodeCommit, AWS-CLI, Papertrail, AWS Management Console and Amazon Aurora.
+508 compliant tools:</b> JAWS and iOS VoiceOver.
+<b>Languages:</b> JSON, CSS, Python, Visual Basic, SQL, HTML, Ruby, Java and XML.<br /><br />
+<b>Version Control tools:</b> Git, TortoiseSVN, BitBucket and SourceTree.
+<b>Database:</b> VistA, MS SQL Server, MySQL, MongoDB and Oracle.<br /><br />
+<b>Browsers:</b> Safari, Chrome, Edge, IE, and Firefox.<br /><br />
+<b>Operating Systems:</b> OS X, DOS, Linux and Windows.
 
 <h1 id="header2">CERTIFICATIONS:</h1>
 SAFe, CSM and ICP Agile.
@@ -32,7 +32,7 @@ SAFe, CSM and ICP Agile.
 
 Streetshares, RESTON,<br /> VA                                                                                   01/2017-PRESENT<br />
 Software Development Engineer in Test<br />
-Responsibilities:<br />
+Responsibilities:<br /><br />
 Managing and maintaining the proper Git workflow including naming, updating, reverting and merging branches.<br />
 Ensuring consistency and accuracy in HTTP API response status codes.
 Leading major QA project initiatives to ensure that the project maintained a quality standard.
@@ -83,7 +83,7 @@ Environment: Grunt, SourceTree, AWS, VistA, AngularJS, HTML5, Ruby, JSON, MongoD
 
 NUANCE, RESTON,<br /> VA                                                                                              10/2011–11/2013<br />
 Senior QA Engineer <br />
-Responsibilities:<br />
+Responsibilities:<br /><br />
 
 Analyzed design documents to validate requirements and use cases.
 Worked closely with the Lead Architect as well as the Project Manager to analyze complete workflow process of the application.
@@ -109,7 +109,7 @@ Environment: Quick Test Pro (QTP), Subversion, Oracle, HTML, JAWS, MS Office, Pe
 
 CNSI, ROCKVILLE,<br /> MD                                                                                               02/2009 – 10/2011<br />
 Senior QA Analyst<br />
-Responsibilities:<br />
+Responsibilities:<br /><br />
 Interacted with End-users, Stakeholders and Business Analysts for gathering and analyzing business and technical requirements and specifications.
 Worked closely with all the business as well as technology stakeholders to analyze complex business processes.
 Designed and developed Test Scenario, Test Cases for various Business Services/methods covering both positive and negative testing requirements.
