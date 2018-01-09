@@ -25,10 +25,10 @@ Database: VistA, MS SQL Server, MySQL, MongoDB and Oracle.
 Browsers: Safari, Chrome, Edge, IE, and Firefox.
 Operating Systems: OS X, DOS, Linux and Windows.
 
-CERTIFICATIONS:    
+<h1 id="header2">CERTIFICATIONS:</h1>
 SAFe, CSM and ICP Agile.
 
-WORK EXPERIENCE
+<h1 id="header2">WORK EXPERIENCE</h1>
 
 Streetshares, RESTON, VA                                                                                   01/2017-PRESENT
 Software Development Engineer in Test
@@ -109,7 +109,7 @@ Environment: Quick Test Pro (QTP), Subversion, Oracle, HTML, JAWS, MS Office, Pe
 
 CNSI, ROCKVILLE, MD                                                                                               02/2009 – 10/2011
 Senior QA Analyst
-Responsibilities: 
+Responsibilities:
 Interacted with End-users, Stakeholders and Business Analysts for gathering and analyzing business and technical requirements and specifications.
 Worked closely with all the business as well as technology stakeholders to analyze complex business processes.
 Designed and developed Test Scenario, Test Cases for various Business Services/methods covering both positive and negative testing requirements.
@@ -129,5 +129,5 @@ Effectively utilized Quality Center successfully by creating test plans, test ca
 Assisted in management of defect tracking using Quality Center, including logging defects, assigning them to developers, facilitating defect review sessions and researching causes of defects in development builds and in production environments.
 Environment: Quality Center, Quick Test Pro (QTP), Visual Basic, SQL Server, ASP, ActiveX Controls, VBScript, Windows,  XML and Oracle.
 
-EDUCATION:    
+<h1 id="header2">EDUCATION:</h1>  
 Bachelors in Corporate Finance/Economics, Queens College, The City University of New York
