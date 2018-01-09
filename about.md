@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="250" height="172" layout="responsive" src="http://insights.dice.com/wp-content/uploads/2014/07/C-Programming.jpg"></amp-img>
+<amp-img width="83.33" height="57.33" layout="responsive" src="http://insights.dice.com/wp-content/uploads/2014/07/C-Programming.jpg"></amp-img>
 
-4808 29th Street S. #B2 Arlington, VA 22206
-EMAIL: haque.zubair@gmail.com
+4808 29th Street S. #B2 Arlington, VA 22206<br />
+EMAIL: haque.zubair@gmail.com<br />
 Phone: (646) 515-1473
 
 <h1 id="heading1">PROFILE</h1>
@@ -30,10 +30,10 @@ SAFe, CSM and ICP Agile.
 
 <h1 id="header2">WORK EXPERIENCE</h1>
 
-Streetshares, RESTON, VA                                                                                   01/2017-PRESENT
-Software Development Engineer in Test
-Responsibilities:
-Managing and maintaining the proper Git workflow including naming, updating, reverting and merging branches.
+Streetshares, RESTON,<br /> VA                                                                                   01/2017-PRESENT<br />
+Software Development Engineer in Test<br />
+Responsibilities:<br />
+Managing and maintaining the proper Git workflow including naming, updating, reverting and merging branches.<br />
 Ensuring consistency and accuracy in HTTP API response status codes.
 Leading major QA project initiatives to ensure that the project maintained a quality standard.
 Configuring integration of a fully managed source control service in the cloud for a private repository.
@@ -54,8 +54,8 @@ Possessing the ability to switch focus to immediate tasks, as well as adapting t
 Environment: Docker, Papertrail, Selenium Webdriver, Kitematic, Git, Bash, Google Authenticator, Homebrew, Postman, AWS-CodeCommit, Ubuntu, JSON, Cucumber, PhantomJS, Python, NGINX, HTML5, Sublime, AWS, CSS3, Scrumwise, AngularJS, MySQL, jQuery, AWS-CLI, Grunt, S3 and Amazon Aurora.
 
 
-Accenture Federal Services, CHANTILLY, VA                                              11/2013-01/2017
-Automation Engineer 
+Accenture Federal Services, CHANTILLY, VA                                              11/2013-01/2017<br />
+Automation Engineer <br />
 Managing the integration and testing of artifacts in a continuous integration environment.
 Satisfied Business Component rules by refactoring Gherkin feature files in our Cucumber test framework.
 Modifying the regular expressions in a capture group to validate JSON responses being returned from the server.
@@ -81,9 +81,9 @@ Provided peer reviews of automated test scripts to improve code quality in the t
 Environment: Grunt, SourceTree, AWS, VistA, AngularJS, HTML5, Ruby, JSON, MongoDB, Git, Cucumber, Webdriver, Rally, Jenkins, Chef, BitBucket, Gradle, Vagrant, Firebug, Postman, Docker, RSpec, Selenium, CSS3, Bash, Marionette and PhantomJS.
 
 
-NUANCE, RESTON, VA                                                                                              10/2011–11/2013
-Senior QA Engineer 
-Responsibilities:
+NUANCE, RESTON,<br /> VA                                                                                              10/2011–11/2013<br />
+Senior QA Engineer <br />
+Responsibilities:<br />
 
 Analyzed design documents to validate requirements and use cases.
 Worked closely with the Lead Architect as well as the Project Manager to analyze complete workflow process of the application.
@@ -107,9 +107,9 @@ Deploying software at various client sites as well as rolling back databases whe
 Utilized WebDriver to make object oriented API calls to make business rule validations on web applications.
 Environment: Quick Test Pro (QTP), Subversion, Oracle, HTML, JAWS, MS Office, Perforce, VBScript, XML, Windows 7, Eclipse, Junit, TestNG, ActiveX Controls, SQL Server, Firebug, Visual Basic, TestTrack, Selenium, HL7, Java and Unix.
 
-CNSI, ROCKVILLE, MD                                                                                               02/2009 – 10/2011
-Senior QA Analyst
-Responsibilities:
+CNSI, ROCKVILLE,<br /> MD                                                                                               02/2009 – 10/2011<br />
+Senior QA Analyst<br />
+Responsibilities:<br />
 Interacted with End-users, Stakeholders and Business Analysts for gathering and analyzing business and technical requirements and specifications.
 Worked closely with all the business as well as technology stakeholders to analyze complex business processes.
 Designed and developed Test Scenario, Test Cases for various Business Services/methods covering both positive and negative testing requirements.
