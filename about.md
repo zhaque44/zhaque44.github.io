@@ -55,8 +55,8 @@ Responsibilities:<br /><br />
 <b>Environment:</b> Docker, Papertrail, Selenium Webdriver, Kitematic, Git, Bash, Google Authenticator, Homebrew, Postman, AWS-CodeCommit, Ubuntu, JSON, Cucumber, PhantomJS, Python, NGINX, HTML5, Sublime, AWS, CSS3, Scrumwise, AngularJS, MySQL, jQuery, AWS-CLI, Grunt, S3 and Amazon Aurora.
 
 
-Accenture Federal Services, CHANTILLY, VA                                              11/2013-01/2017<br />
-Automation Engineer <br />
+<b>Accenture Federal Services, CHANTILLY, VA                                              11/2013-01/2017<br />
+Automation Engineer</b> <br />
 • Managing the integration and testing of artifacts in a continuous integration environment.<br />
 • Satisfied Business Component rules by refactoring Gherkin feature files in our Cucumber test framework.<br />
 • Modifying the regular expressions in a capture group to validate JSON responses being returned from the server.<br />
