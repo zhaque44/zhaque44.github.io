@@ -4,7 +4,7 @@ description:  Scripter sharing his experiences and solutions
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo-new.png
 favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "../" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://zhaqueblog.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
