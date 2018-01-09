@@ -29,10 +29,11 @@ Detail oriented individual with extensive experience as a Development Engineer i
 SAFe, CSM and ICP Agile.
 
 <h1 id="header2">WORK EXPERIENCE</h1>
-
+<b>
 Streetshares, RESTON,<br /> VA                                                                                   01/2017-PRESENT<br />
 Software Development Engineer in Test<br />
 Responsibilities:<br /><br />
+</b>
 Managing and maintaining the proper Git workflow including naming, updating, reverting and merging branches.<br />
 Ensuring consistency and accuracy in HTTP API response status codes.
 Leading major QA project initiatives to ensure that the project maintained a quality standard.
@@ -80,11 +81,11 @@ Altered Chef recipes so that they can point to static artifacts for data configu
 Provided peer reviews of automated test scripts to improve code quality in the test suite.
 Environment: Grunt, SourceTree, AWS, VistA, AngularJS, HTML5, Ruby, JSON, MongoDB, Git, Cucumber, Webdriver, Rally, Jenkins, Chef, BitBucket, Gradle, Vagrant, Firebug, Postman, Docker, RSpec, Selenium, CSS3, Bash, Marionette and PhantomJS.
 
-
+<b>
 NUANCE, RESTON,<br /> VA                                                                                              10/2011–11/2013<br />
 Senior QA Engineer <br />
 Responsibilities:<br /><br />
-
+</b>
 Analyzed design documents to validate requirements and use cases.
 Worked closely with the Lead Architect as well as the Project Manager to analyze complete workflow process of the application.
 Forecasted a QA timeline with a work breakdown structure for release planning.
@@ -106,10 +107,11 @@ Debugging test scripts in QTP to execute automated test scripts on multiple brow
 Deploying software at various client sites as well as rolling back databases when upgrading software.
 Utilized WebDriver to make object oriented API calls to make business rule validations on web applications.
 Environment: Quick Test Pro (QTP), Subversion, Oracle, HTML, JAWS, MS Office, Perforce, VBScript, XML, Windows 7, Eclipse, Junit, TestNG, ActiveX Controls, SQL Server, Firebug, Visual Basic, TestTrack, Selenium, HL7, Java and Unix.
-
+<b>
 CNSI, ROCKVILLE,<br /> MD                                                                                               02/2009 – 10/2011<br />
 Senior QA Analyst<br />
 Responsibilities:<br /><br />
+</b>
 Interacted with End-users, Stakeholders and Business Analysts for gathering and analyzing business and technical requirements and specifications.
 Worked closely with all the business as well as technology stakeholders to analyze complex business processes.
 Designed and developed Test Scenario, Test Cases for various Business Services/methods covering both positive and negative testing requirements.
