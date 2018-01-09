@@ -106,7 +106,7 @@ Proficient with writing VB script to verify the presence of confirmation message
 Debugging test scripts in QTP to execute automated test scripts on multiple browsers.
 Deploying software at various client sites as well as rolling back databases when upgrading software.
 Utilized WebDriver to make object oriented API calls to make business rule validations on web applications.
-Environment: Quick Test Pro (QTP), Subversion, Oracle, HTML, JAWS, MS Office, Perforce, VBScript, XML, Windows 7, Eclipse, Junit, TestNG, ActiveX Controls, SQL Server, Firebug, Visual Basic, TestTrack, Selenium, HL7, Java and Unix.
+Environment: Quick Test Pro (QTP), Subversion, Oracle, HTML, JAWS, MS Office, Perforce, VBScript, XML, Windows 7, Eclipse, Junit, TestNG, ActiveX Controls, SQL Server, Firebug, Visual Basic, TestTrack, Selenium, HL7, Java and Unix.<br /><br />
 <b>
 CNSI, ROCKVILLE,<br /> MD                                                                                               02/2009 – 10/2011<br />
 Senior QA Analyst<br />
