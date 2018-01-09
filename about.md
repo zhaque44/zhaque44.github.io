@@ -16,9 +16,9 @@ Detail oriented individual with extensive experience as a Development Engineer i
 
 <h1 id="heading2">TECHNICAL SKILLS</h1>
 <b>Software Testing Tools:</b> Grunt, Vagrant, Docker, HP Quick Test Professional (QTP), PhantomJS, LoadRunner, Gradle, Firebug, Selenium, Sublime, Postman, Chef, Eclipse, WebDriver, ScrumWise, TestTrack, Rally, Jenkins and Quality Center.<br /><br />
-<b>Frameworks:</b> RSpec, Behave, JUnit, Cucumber, AngularJS and Marionette.<br />
-<b>Cloud Computing:</b> AWS, S3, AWS-CodeCommit, AWS-CLI, Papertrail, AWS Management Console and Amazon Aurora.
-508 compliant tools:</b> JAWS and iOS VoiceOver.<br />
+<b>Frameworks:</b> RSpec, Behave, JUnit, Cucumber, AngularJS and Marionette.<br /><br />
+<b>Cloud Computing:</b> AWS, S3, AWS-CodeCommit, AWS-CLI, Papertrail, AWS Management Console and Amazon Aurora. <br /><br />
+<b>508 compliant tools:</b> JAWS and iOS VoiceOver.<br /><br />
 <b>Languages:</b> JSON, CSS, Python, Visual Basic, SQL, HTML, Ruby, Java and XML.<br /><br />
 <b>Version Control tools:</b> Git, TortoiseSVN, BitBucket and SourceTree.
 <b>Database:</b> VistA, MS SQL Server, MySQL, MongoDB and Oracle.<br /><br />
