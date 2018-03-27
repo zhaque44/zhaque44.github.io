@@ -16,8 +16,8 @@
   <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove: '/' }}" />
   <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
-  <meta property="article:publisher" content="https://www.facebook.com/{{ site.facebook }}" />{% if excerpt %}
-  <meta property="article:author" content="https://www.facebook.com/{{ site.facebook }}" />
+  <meta property="article:publisher" content="https://www.linkedin.com/in/{{ site.linkedin_username }}" />{% if excerpt %}
+  <meta property="article:author" content="https://www.linkedin.com/in/{{ site.linkedin_username }}" />
   <meta property="article:published_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% endif %}" />
   <meta property="article:modified_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% endif %}" />{% endif %}{% if page.tags.size > 0 %}
   <meta property="article:tag" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
@@ -64,5 +64,5 @@
   <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
   <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
   <script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
-    
+
 </head>
