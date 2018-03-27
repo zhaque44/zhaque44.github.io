@@ -30,8 +30,8 @@ SAFe, CSM and ICP Agile.
 
 <h1 id="header2">WORK EXPERIENCE</h1>
 <b>
-Streetshares, RESTON,<br /> VA                                                                                   01/2017-PRESENT<br />
-Software Development Engineer in Test<br />
+McMurdo, Lanham,<br /> MD                                                                                   03/2017-PRESENT<br />
+Release Integration Engineert<br />
 Responsibilities:<br /><br />
 </b>
 • Managing and maintaining the proper Git workflow including naming, updating, reverting and merging branches.<br />
@@ -52,10 +52,10 @@ Responsibilities:<br /><br />
 • Updating bash deploy scripts to change URLS to enable query string cache busting.<br />
 • Administering and performing server maintenance in the AWS Management Console.<br />
 • Possessing the ability to switch focus to immediate tasks, as well as adapting to scope and direction change.<br />
-<b>Environment:</b> Docker, Papertrail, Selenium Webdriver, Kitematic, Git, Bash, Google Authenticator, Homebrew, Postman, AWS-CodeCommit, Ubuntu, JSON, Cucumber, PhantomJS, Python, NGINX, HTML5, Sublime, AWS, CSS3, Scrumwise, AngularJS, MySQL, jQuery, AWS-CLI, Grunt, S3 and Amazon Aurora.
+<b>Environment:</b> GNU make, Electron, Jira, Confluence, Debian, Linux, Requests, NGINX, Ubuntu, Bash, EJDB, Developer Tools, ReactJS, Sublime, Go, AWS, vagrant, httparty, Gitlab, protobuf, Postman, Swagger, JSON, HTML5, MongoDB, SSH, Cucumber, Git, RSpec, PhantomJS, S3, Material-UI, CSS, unittest, PyMongo, httparty, Homebrew, Consul, GitFlow, BitBucket, Unix, npm, PEP8 & webpack 4
 
 
-<b>Accenture Federal Services, CHANTILLY, VA                                              11/2013-01/2017<br />
+<b>Accenture Federal Services, CHANTILLY, VA                                              11/2013-03/2017<br />
 Automation Engineer</b> <br />
 • Managing the integration and testing of artifacts in a continuous integration environment.<br />
 • Satisfied Business Component rules by refactoring Gherkin feature files in our Cucumber test framework.<br />
