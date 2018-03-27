@@ -8,7 +8,7 @@ permalink: /about/
 
 
 <div class="first-container">
-<div class="left" style="margin:5px;">
+<div class="left" style="margin:5px;float: left;">
 <b>CONTACT INFORMATION</b><br>
 <hr><br>
 Email:<br>
@@ -20,7 +20,7 @@ GitHub:<br>
 https://zhaque44.github.io/<br><br>
 </div>
 
-<div class="right" style="margin:5px;"></div>
+<div class="right" style="margin:5px; float: right;"></div>
 <b>ZUBAIR HAQUE<br>
 DEVELOPMENT ENGINEER IN TEST | CSPO | CSM | ICP | SA</b>
 <br><br><b>PROFILE</b><br>
