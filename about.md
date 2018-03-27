@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<head>
+<link rel="stylesheet" href="about-style.css">
+</head>
 <amp-img width="83.33" height="57.33" layout="responsive" src="http://insights.dice.com/wp-content/uploads/2014/07/C-Programming.jpg"></amp-img>
 
 4808 29th Street S. #B2 Arlington, VA 22206<br />
