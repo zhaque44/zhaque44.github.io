@@ -18,13 +18,6 @@ Phone:<br>
 LinkedIn: https://www.linkedin.com/in/zubair-haque<br>
 GitHub:<br>
 https://zhaque44.github.io/<br><br>
-</div>
-
-<div class="right" style="margin:5px; float: right;width:50%;">
-<b>ZUBAIR HAQUE<br>
-DEVELOPMENT ENGINEER IN TEST | CSPO | CSM | ICP | SA</b>
-<br><br><b>PROFILE</b><br>
-A detail-oriented professional with nine plus years of experience as a Development Test Engineer and Scrum Master. Diversified experience in Manual and Automated Testing of Web-Based, Desktop and Client/Server applications on Linux and Windows environments.<br><br>
 
 <b>SKILLSET</b>
 <hr>
@@ -42,6 +35,14 @@ AWS Management Console & Papertrail
 <b>Browsers:</b>
 Safari, Chrome, Edge, IE & Firefox
 508 Compliant Tools: JAWS & iOS VoiceOver
+
+</div>
+
+<div class="right" style="margin:5px; float: right;width:50%;">
+<b>ZUBAIR HAQUE<br>
+DEVELOPMENT ENGINEER IN TEST | CSPO | CSM | ICP | SA</b>
+<br><br><b>PROFILE</b><br>
+A detail-oriented professional with nine plus years of experience as a Development Test Engineer and Scrum Master. Diversified experience in Manual and Automated Testing of Web-Based, Desktop and Client/Server applications on Linux and Windows environments.<br><br>
 
 CORE COMPETENCIES<br><hr><br>
 • Working with clients, stakeholders and Product Owners to perform scope outlining and requirements analysis.
