@@ -26,6 +26,23 @@ DEVELOPMENT ENGINEER IN TEST | CSPO | CSM | ICP | SA</b>
 <br><br><b>PROFILE</b><br>
 A detail-oriented professional with nine plus years of experience as a Development Test Engineer and Scrum Master. Diversified experience in Manual and Automated Testing of Web-Based, Desktop and Client/Server applications on Linux and Windows environments.<br><br>
 
+<b>SKILLSET</b>
+<hr>
+<b>Software Testing Tools:</b>
+Grunt, Vagrant, Crucible, Docker, HP Quick Test Professional (QTP), PhantomJS, LoadRunner, Gradle, Firebug, Selenium, Sublime, Bitbucket, Postman, Chef, Eclipse, WebDriver, Swagger, TestTrack, Rally, Jenkins, Gitlab & Quality Center
+<b>Version Control Tools:</b>
+Git, BitBucket, SourceTree, GitKraken & TortoiseSVN Operating Systems: Ubuntu, Linux, Windows
+& MAC OS X
+<b>Ruby, Python, HTML, JSON, XML & Visual Basic Databases:</b>
+MongoDB, EJDB, MS SQL Server, Oracle, MySQL & VistA
+<b>Libraries & Frameworks:</b>
+ReactJS, Oauth, RSpec, unittest, httparty, Selenium- Webdriver, Requests, PyMongo, JWT, Page- Object, Behave, Cucumber, Marionette & AngularJS Cloud Computing:
+AWS, S3, Gitlab
+AWS Management Console & Papertrail
+<b>Browsers:</b>
+Safari, Chrome, Edge, IE & Firefox
+508 Compliant Tools: JAWS & iOS VoiceOver
+
 CORE COMPETENCIES<br><hr><br>
 • Working with clients, stakeholders and Product Owners to perform scope outlining and requirements analysis.
 • Providing strategic guidance when it comes to translating complex initiatives into testable objectives.
