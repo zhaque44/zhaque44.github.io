@@ -20,7 +20,7 @@ GitHub:<br>
 https://zhaque44.github.io/<br><br>
 </div>
 
-<div class="right" style="margin:5px; float: right;width:50%;"></div>
+<div class="right" style="margin:5px; float: right;width:50%;">
 <b>ZUBAIR HAQUE<br>
 DEVELOPMENT ENGINEER IN TEST | CSPO | CSM | ICP | SA</b>
 <br><br><b>PROFILE</b><br>
@@ -51,4 +51,5 @@ CORE COMPETENCIES<br><hr><br>
 • Authoring Test Strategies and providing knowledge transfers for teammates.
 • Developing Automated Test Scenarios & Test Data needed in Test Scripts to satisfy Acceptance Criteria.
 • Thoroughly Testing Web Services through a REST Interface. • Providing thorough bug documentation and log output.
+</div>
 </div>
