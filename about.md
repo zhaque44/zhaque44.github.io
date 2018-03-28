@@ -45,7 +45,7 @@ A detail-oriented professional with nine plus years of experience as a Developme
 RELEASE INTEGRATION ENGINEER MCMURDO 3/2017- PRESENT</b>
 <ul>
 <li>Testing applications in an iterative, fast paced, dynamic environment using in-house built acceptance testing frameworks to ensure functionality met all business requirements set forth by the Product Owner.</li>
-<li>Developed detailed test scenarios and test automation scripts based on multiple user groups and detailed interface design requirements.<li>
+<li>Developed detailed test scenarios and test automation scripts based on multiple user groups and detailed interface design requirements.
 <li>Ensuring consistency and accuracy in HTTP API response status codes.</li>
 <li>Demonstrated advanced domain level understanding of the product line, which enabled me to juggle multiple tasks to support Continuous Integration and Delivery.</li>
 <li>Developed code in order to test enhancements made to the application with unittest.</li>
