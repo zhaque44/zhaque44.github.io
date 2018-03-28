@@ -9,10 +9,10 @@ permalink: /about/
 CONTACT INFORMATION
 <hr>
 
-Email:
-haque.zubair@gmail.com
-Phone:
-(646)515-1473
-LinkedIn: https://www.linkedin.com/in/ zubair-haque
-GitHub:
-https://zhaque44.github.io/
+Email:<br>
+haque.zubair@gmail.com <br>
+Phone:<br>
+(646)515-1473<br>
+LinkedIn: https://www.linkedin.com/in/zubair-haque<br>
+GitHub:<br>
+https://zhaque44.github.io/<br>
