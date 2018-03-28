@@ -133,8 +133,6 @@ test strategy.</li>
 covered both positive and negative testing requirements.</li>
 ENVIRONMENT: Visual Basic, Windows Server 2005, LoadRunner, Quality Center, SQL Server, QuickTest Pro (QTP), Java, Jboss & Oracle 10G
 </ul><br>
-<b>EDUCATION
-BACHELORS IN CORPORATE FINANCE/ECONOMICS <br>QUEENS COLLEGE, THE CITY UNIVERSITY OF NEW YORK</b>
 <b>CERTIFICATIONS</b>
 <ul>
 <li>CERTIFIED SCRUM MASTER (CSM)</li>
