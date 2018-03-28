@@ -26,11 +26,11 @@ Git, BitBucket, SourceTree, GitKraken & TortoiseSVN Operating Systems: Ubuntu, L
 & MAC OS X<br>
 <b>Languages:</b><br>
 Ruby, Python, HTML, JSON, XML & Visual Basic Databases:
-MongoDB, EJDB, MS SQL Server, Oracle, MySQL & VistA
+MongoDB, EJDB, MS SQL Server, Oracle, MySQL & VistA<br>
 <b>Libraries & Frameworks:</b><br>
 ReactJS, Oauth, RSpec, unittest, httparty, Selenium- Webdriver, Requests, PyMongo, JWT, Page- Object, Behave, Cucumber, Marionette & AngularJS Cloud Computing:
 AWS, S3, Gitlab
-AWS Management Console & Papertrail
+AWS Management Console & Papertrail<br>
 <b>Browsers:</b><br>
 Safari, Chrome, Edge, IE & Firefox
 508 Compliant Tools: JAWS & iOS VoiceOver<br><br>
