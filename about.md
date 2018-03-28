@@ -38,7 +38,7 @@ Safari, Chrome, Edge, IE & Firefox
 A detail-oriented professional with nine plus years of experience as a Development Test Engineer and Scrum Master. Diversified experience in Manual and Automated Testing of Web-Based, Desktop and Client/Server applications on Linux and Windows environments<br><br>
 
 <b>CORE COMPETENCIES</b>
-<ol>
+<ul>
 <li>• Working with clients, stakeholders and Product Owners to perform scope outlining and requirements analysis.</li>
 <li>• Providing strategic guidance when it comes to translating complex initiatives into testable objectives.</li>
 <li>• Developing custom reporting such as Build Artifacts, Requirement Traceability Matrices and Test Reports.
@@ -48,10 +48,10 @@ A detail-oriented professional with nine plus years of experience as a Developme
 <li>• Developing Automated Test Scenarios & Test Data needed in Test Scripts to satisfy Acceptance Criteria.</li>
 <li>• Thoroughly Testing Web Services through a REST Interface.</li>
 <li>• Providing thorough bug documentation and log output.</li>
-</ol><br><br>
+</ul><br><br>
 <b>EXPERIENCE<br>
 RELEASE INTEGRATION ENGINEER • MCMURDO • 3/2017- PRESENT</b>
-<ol>
+<ul>
 <li>• Testing applications in an iterative, fast paced, dynamic environment using in-house built acceptance testing frameworks to ensure functionality met all business requirements set forth by the Product Owner.</li>
 <li>• Developed detailed test scenarios and test automation scripts based on multiple user groups and detailed interface design requirements.<li>
 <li>• Ensuring consistency and accuracy in HTTP API response status codes.</li>
@@ -74,11 +74,11 @@ and tagging releases.</li>
 <li>• Providing and documenting various skill sharing sessions, in regard to test execution processes,
 debugging code and tagging tests for regression.</li>
 ENVIRONMENT: GNU make, Electron, Jira, Confluence, Debian, Linux, Requests, NGINX, Ubuntu, Bash, EJDB, Developer Tools, ReactJS, Sublime, Go, AWS, vagrant, httparty, Gitlab, protobuf, Postman, Swagger, JSON, HTML5, MongoDB, SSH, Cucumber, Git, RSpec, PhantomJS, S3, Material-UI, CSS, unittest, PyMongo, httparty, Homebrew, Consul, GitFlow, BitBucket, Unix, npm, PEP8 & webpack 4
-</ol>
+</ul>
 
 <br>
 <b>AUTOMATION ENGINEER • ACCENTURE FEDERAL SERVICES • 11/2013-03/2017</b><br>
-<ol>
+<ul>
 <li>
 • Managed the Integration and Testing of Release Candidates in a continuous integration environment.</li>
 <li>• Provided peer reviews of automated test scripts to improve code quality in the test suite.<li>
@@ -100,4 +100,4 @@ API.</li>
 • Modifying the regular expressions in a capture group to validate JSON responses being returned
 from the server.</li>
 ENVIRONMENT: Grunt, Developer Tools, Oauth, SourceTree, AWS, VistA, HTML5, AngularJS, Ruby, JSON, MongoDB, Git, Cucumber, Selenium-Webdriver, Confluence, Jenkins, Chef, BitBucket, Gradle, Vagrant, Homebrew, Firebug, Postman, VirtualBox Manager, npm, RSpec, Bash, Marionette, CSS3 & PhantomJS
-</ol>
+</ul>
