@@ -33,9 +33,9 @@ AWS, S3, Gitlab
 AWS Management Console & Papertrail<br>
 <b>Browsers:</b><br>
 Safari, Chrome, Edge, IE & Firefox
-508 Compliant Tools: JAWS & iOS VoiceOver<br><br>
-<b>PROFILE:</b><br><br>
-A detail-oriented professional with nine plus years of experience as a Development Test Engineer and Scrum Master. Diversified experience in Manual and Automated Testing of Web-Based, Desktop and Client/Server applications on Linux and Windows environments<br><br>
+508 Compliant Tools: JAWS & iOS VoiceOver<br>
+<b>PROFILE:</b><br>
+A detail-oriented professional with nine plus years of experience as a Development Test Engineer and Scrum Master. Diversified experience in Manual and Automated Testing of Web-Based, Desktop and Client/Server applications on Linux and Windows environments<br>
 
 <b>CORE COMPETENCIES</b>
 <ul>
@@ -48,7 +48,7 @@ A detail-oriented professional with nine plus years of experience as a Developme
 <li>• Developing Automated Test Scenarios & Test Data needed in Test Scripts to satisfy Acceptance Criteria.</li>
 <li>• Thoroughly Testing Web Services through a REST Interface.</li>
 <li>• Providing thorough bug documentation and log output.</li>
-</ul><br><br>
+</ul><br>
 <b>EXPERIENCE<br>
 RELEASE INTEGRATION ENGINEER • MCMURDO • 3/2017- PRESENT</b>
 <ul>
@@ -81,7 +81,7 @@ ENVIRONMENT: GNU make, Electron, Jira, Confluence, Debian, Linux, Requests, NGIN
 <ul>
 <li>
 • Managed the Integration and Testing of Release Candidates in a continuous integration environment.</li>
-<li>• Provided peer reviews of automated test scripts to improve code quality in the test suite.<li>
+<li>• Provided peer reviews of automated test scripts to improve code quality in the test suite.</li>
 <li>• Deep knowledge and understanding of adhoc approaches for thoroughly testing the system,
 utilizing tools such as Postman, remote SSH and stack tracing inside of VM’s to specify the origin of
 defective behavior.</li>
@@ -100,4 +100,52 @@ API.</li>
 • Modifying the regular expressions in a capture group to validate JSON responses being returned
 from the server.</li>
 ENVIRONMENT: Grunt, Developer Tools, Oauth, SourceTree, AWS, VistA, HTML5, AngularJS, Ruby, JSON, MongoDB, Git, Cucumber, Selenium-Webdriver, Confluence, Jenkins, Chef, BitBucket, Gradle, Vagrant, Homebrew, Firebug, Postman, VirtualBox Manager, npm, RSpec, Bash, Marionette, CSS3 & PhantomJS
+</ul><br>
+
+<b>QA ENGINEER II• NUANCE COMMUNICATIONS • 10/2011-11/2013</b><br>
+<ol>
+<li>Monitored the progress of each testing iteration, by identifying the estimated hours that are allocated for each task as well as drafting test reports as deliverables.</li>
+<li>Mentored junior team members with 508 compliance testing, reusable test automation code and documentation.</li>
+<li>Enhanced use cases to identify behavioral relationships in the system based on workflow tasks provided in previous versions.</li>
+<li>Analyzed the impact on server performance CPU usage, server memory usage for the applications of varied numbers of multiple, simultaneous users.</li>
+<li>Used descriptive programming to validate user stories and maintained shared Object Repository in QTP.</li>
+<li>Created driver scripts in TestNG to populate data in the database before executing the test suite.</li>
+<li>Forecasted a QA timeline with a work breakdown structure for release planning.</li>
+<li>Managed repositories of test scripts that were to be maintained and executed every release cycle.</li>
+<li>Deployed software in various different environments such as, Production, Testing & Staging as well
+as rolling back databases so the system can be at a fresh state.</li>
+<li>Drafted Test Plans to validate that our software was 508 compliant with JAWS/Freedom Scientific
+Reader.</li>
+<li>Worked closely with the Lead Architect as well as the Project Manager to analyze complete
+workflow of business rule validation & story enhancements.</li>
+</ol>
+ENVIRONMENT: QuickTest Pro (QTP), Oracle, HTML, JAWS, MS Office, Perforce, HL7, Java, Selenium, TestTrack, SQL Server, Firebug, Visual Basic, TestNG, Junit, Eclipse, VBScript, Windows 7, IE9, XML & ICD-10<br>
+
+<b>SOFTWARE TEST ANALYST• CNSI • 02/2009-10/2011</b>
+<ul>
+<li>Reviewed Functional and Design Specification documents and identified various test ambiguities, conflicts and risks.</li>
+<li>Enhanced test cases to satisfy requirements in the system based on business rules.</li>
+<li>Performed Functional, Negative, Regression and Smoke Tests on the new enhancements added to
+the web application.</li>
+<li>Possessing the ability to be flexible and versatile to adapt to new team environments and work
+independently.</li>
+<li>Monitored resources to identify performance bottlenecks, as well as identifying performance
+improvements that were needed to be made.</li>
+<li>Executed the automated test suite on each build to validate functionality and perform regression
+testing.</li>
+<li>Worked with the development team to perform root cause analysis for defects found during testing.</li>
+<li>Provided assistance to other team members with testing approaches, application knowledge and
+test strategy.</li>
+<li>Designed and strategized Test Scenarios as well as Test Cases for various Use Cases/methods which
+covered both positive and negative testing requirements.</li>
+ENVIRONMENT: Visual Basic, Windows Server 2005, LoadRunner, Quality Center, SQL Server, QuickTest Pro (QTP), Java, Jboss & Oracle 10G
+</ul><br>
+<b>EDUCATION
+BACHELORS IN CORPORATE FINANCE/ECONOMICS • QUEENS COLLEGE, THE CITY UNIVERSITY OF NEW YORK</b>
+<b>CERTIFICATIONS</b>
+<ul>
+<li>CERTIFIED SCRUM MASTER (CSM)</li>
+<li>SAFE AGILIST (SA)</li>
+<li>CERTIFIED SCRUM PRODUCT OWNER (CSPO)</li>
+<li>ICP AGILE CERTIFIED PROFESSIONAL (ICP)</li>
 </ul>
