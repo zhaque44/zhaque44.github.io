@@ -40,7 +40,7 @@ A detail-oriented professional with nine plus years of experience as a Developme
 <li>Developing Automated Test Scenarios & Test Data needed in Test Scripts to satisfy Acceptance Criteria.</li>
 <li>Thoroughly Testing Web Services through a REST Interface.</li>
 <li>Providing thorough bug documentation and log output.</li>
-</ul><br>
+</ul>
 <b>EXPERIENCE<br>
 RELEASE INTEGRATION ENGINEER MCMURDO 3/2017- PRESENT</b>
 <ul>
