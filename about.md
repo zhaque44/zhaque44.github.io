@@ -6,6 +6,8 @@ permalink: /about/
 
 <amp-img width="83.33" height="57.33" layout="responsive" src="http://insights.dice.com/wp-content/uploads/2014/07/C-Programming.jpg"></amp-img>
 
+<b>ZUBAIR HAQUE<br>
+DEVELOPMENT ENGINEER IN TEST | CSPO | CSM | ICP | SA</b><br><br>
 <b>CONTACT INFORMATION</b>
 <hr>
 Email:<br>
@@ -16,6 +18,7 @@ LinkedIn: https://www.linkedin.com/in/zubair-haque<br>
 GitHub:<br>
 https://zhaque44.github.io/<br><br>
 <b>SKILLSET</b>
+<hr>
 <b>Software Testing Tools:</b>
 Grunt, Vagrant, Crucible, Docker, HP Quick Test Professional (QTP), PhantomJS, LoadRunner, Gradle, Firebug, Selenium, Sublime, Bitbucket, Postman, Chef, Eclipse, WebDriver, Swagger, TestTrack, Rally, Jenkins, Gitlab & Quality Center<br>
 <b>Version Control Tools:</b><br>
@@ -30,4 +33,11 @@ AWS, S3, Gitlab
 AWS Management Console & Papertrail
 <b>Browsers:</b><br>
 Safari, Chrome, Edge, IE & Firefox
-508 Compliant Tools: JAWS & iOS VoiceOver
+508 Compliant Tools: JAWS & iOS VoiceOver<br><br>
+<b>PROFILE:</b><br><br>
+A detail-oriented professional with nine plus years of experience as a Development Test Engineer and Scrum Master. Diversified experience in Manual and Automated Testing of Web-Based, Desktop and Client/Server applications on Linux and Windows environments<br><br>
+
+<b>CORE COMPETENCIES</b>
+<ol>
+<li>• Working with clients, stakeholders and Product Owners to perform scope outlining and requirements</li> analysis.
+</ol>
