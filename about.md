@@ -66,6 +66,7 @@ and tagging releases.</li>
 <li>Providing and documenting various skill sharing sessions, in regard to test execution processes,
 debugging code and tagging tests for regression.</li>
 ENVIRONMENT: GNU make, Electron, Jira, Confluence, Debian, Linux, Requests, NGINX, Ubuntu, Bash, EJDB, Developer Tools, ReactJS, Sublime, Go, AWS, vagrant, httparty, Gitlab, protobuf, Postman, Swagger, JSON, HTML5, MongoDB, SSH, Cucumber, Git, RSpec, PhantomJS, S3, Material-UI, CSS, unittest, PyMongo, httparty, Homebrew, Consul, GitFlow, BitBucket, Unix, npm, PEP8 & webpack 4
+
 </ul>
 
 <br>
