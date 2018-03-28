@@ -8,15 +8,7 @@ permalink: /about/
 
 <b>ZUBAIR HAQUE<br>
 DEVELOPMENT ENGINEER IN TEST | CSPO | CSM | ICP | SA</b><br><br>
-<b>CONTACT INFORMATION</b>
-<hr>
-Email:<br>
-haque.zubair@gmail.com <br>
-Phone:<br>
-(646)515-1473<br>
-LinkedIn: https://www.linkedin.com/in/zubair-haque<br>
-GitHub:<br>
-https://zhaque44.github.io/<br><br>
+
 <b>SKILLSET</b>
 <hr>
 <b>Software Testing Tools</b>
