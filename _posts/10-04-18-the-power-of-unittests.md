@@ -11,8 +11,9 @@ In my current role I am the only Software Development Engineer in Test in charge
 
 I decided to go with <b><i>unittest</i></b>, it’s pretty easy to understand and has tons of good documentation (if you like JUnit, unittest should be even easier to pick up). The <b><i>unittest</i></b> module comes with Python’s standard library, providing a <b><i>class</i></b> called <code>TestCase</code>
 
-<code>class NameofClass(unittest.TestCase):</code>
-
+```python
+class NameofClass(unittest.TestCase):</code>
+```
 by passing in <i>(unittest.Testcase)</i> as an argument it basically allows you to pull in all of the goodness that is built in to <b><i>unittest</i></b>.
 
 You can have an unlimited amount of <b><i>test_methods</i></b> in your test class, just remember you have to preface the name of all test methods with <b><i>test:</i></b>
@@ -21,31 +22,32 @@ You can have an unlimited amount of <b><i>test_methods</i></b> in your test clas
 
 Now once you defined all of your test methods in your <code>TestCase</code> you must add <code>unittest.main()</code> at the end of the file:
 
-<code>
+```python
 if __name__ == '__main__':
     unittest.main()
-</code>
+```
 
 when <code>unittest.main()</code> is called, it imports the entire module, then examines it by getting a list of all <b><i>functions</i></b> in that file and then runs them.
 
 Make sure to <code>add__init.py__</code> at the <b><i>BASEDIR</i></b> level of your test suite, your directory structure should look like:
 
-<code>
+```python
 └── test
     ├── __init__.py         
     └── test_validation_of_service.py
-</code>
+```
 
 <code>__init__.py</code> is used to initialize Python packages (for now let’s leave it empty). The file can be used to import selected <b><i>classes</i></b> & <b><i>functions</i></b> into the package level so they can be conveniently imported.
 
-<code>
+```ruby
 #example
 
 from package import file
-</code>
-
+```
 Now you can run your test suite:
 
-<code>$ python3 -m unittest</code>
+```ruby
+$ python3 -m unittest
+```
 
 and <b><i>voila!</i></b> It’s that simple. Now, I’m ready to test the various <b><i>web services</i></b> that belong to the API. As mentioned above, I need to validate that the <b><i>proper response status codes</i></b> are being returned as well as asserting the <b><i>JSON</i></b> being returned from each request.
