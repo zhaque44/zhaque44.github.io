@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The power and flexibility of unittest paired with requests…
+title: The power of unittests paired with
 date: 2018-04-10 04:00:00
 tags: unittesting flexibility requests
 author: Zubair Haque
