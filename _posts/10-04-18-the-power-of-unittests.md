@@ -2,7 +2,7 @@
 layout: post
 title: The power of unittests paired with requests
 date: 2018-04-10 04:00:00
-tags: unittesting flexibility requests
+tags: unittest requests python
 author: Zubair Haque
 ---
 
